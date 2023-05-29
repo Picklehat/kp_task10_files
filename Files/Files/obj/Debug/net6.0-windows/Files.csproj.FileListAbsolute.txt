@@ -1,0 +1,51 @@
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\bin\Debug\net6.0-windows\Files.exe
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\bin\Debug\net6.0-windows\Files.deps.json
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\bin\Debug\net6.0-windows\Files.runtimeconfig.json
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\bin\Debug\net6.0-windows\Files.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\bin\Debug\net6.0-windows\Files.pdb
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.Form1.resources
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.AssemblyInfoInputs.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.AssemblyInfo.cs
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\refint\Files.dll
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.pdb
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\Files.genruntimeconfig.cache
+C:\Users\vlads\Desktop\Visual Studio Projects\CW\kp10\Files\Files\obj\Debug\net6.0-windows\ref\Files.dll
+D:\source\repos\Files\Files\bin\Debug\net6.0-windows\Files.exe
+D:\source\repos\Files\Files\bin\Debug\net6.0-windows\Files.deps.json
+D:\source\repos\Files\Files\bin\Debug\net6.0-windows\Files.runtimeconfig.json
+D:\source\repos\Files\Files\bin\Debug\net6.0-windows\Files.dll
+D:\source\repos\Files\Files\bin\Debug\net6.0-windows\Files.pdb
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.csproj.AssemblyReference.cache
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.Form1.resources
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.csproj.GenerateResource.cache
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.AssemblyInfoInputs.cache
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.AssemblyInfo.cs
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.csproj.CoreCompileInputs.cache
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.dll
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\refint\Files.dll
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.pdb
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\Files.genruntimeconfig.cache
+D:\source\repos\Files\Files\obj\Debug\net6.0-windows\ref\Files.dll
+C:\Users\vlads\Desktop\Files\Files\bin\Debug\net6.0-windows\Files.exe
+C:\Users\vlads\Desktop\Files\Files\bin\Debug\net6.0-windows\Files.deps.json
+C:\Users\vlads\Desktop\Files\Files\bin\Debug\net6.0-windows\Files.runtimeconfig.json
+C:\Users\vlads\Desktop\Files\Files\bin\Debug\net6.0-windows\Files.dll
+C:\Users\vlads\Desktop\Files\Files\bin\Debug\net6.0-windows\Files.pdb
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.csproj.AssemblyReference.cache
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.Form1.resources
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.csproj.GenerateResource.cache
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.AssemblyInfoInputs.cache
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.AssemblyInfo.cs
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.csproj.CoreCompileInputs.cache
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.dll
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\refint\Files.dll
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.pdb
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\Files.genruntimeconfig.cache
+C:\Users\vlads\Desktop\Files\Files\obj\Debug\net6.0-windows\ref\Files.dll
